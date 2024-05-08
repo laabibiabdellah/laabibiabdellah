@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laabibi Abdellah</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h3 align="center">A passionate web developer from Morocco</h3>
 <img align="right" width="400" src="https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif" alt="coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laabibiabdellah&label=Profile%20views&color=0e75b6&style=flat" alt="laabibiabdellah" /> </p>
