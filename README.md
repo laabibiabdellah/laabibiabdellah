@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laabibi Abdellah</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h3 align="center"> < A passionate <b>web developer</b> from Morocco /></h3>
 <div
 width="100%"
 	style="
@@ -9,10 +9,10 @@ width="100%"
     "
 >
                <ul width="50%">
-                   <li>👨‍💻 All of my projects are available at [https://github.com/laabibiabdellah]</li>
-                   <li>💬 Ask me about **JavaScript, React js, Laravel..**</li>
-                   <li>📫 How to reach me **laabibiabdellah@gmail.com**</li>
-                   <li>⚡ Fun fact **I'm always happy**</li>
+                   <li>👨‍💻 All of my projects are available at [<b>https://github.com/laabibiabdellah</b>]</li>
+                   <li>💬 Ask me about <b>JavaScript, React js, Laravel...</b></li>
+                   <li>📫 How to reach me <b>laabibiabdellah@gmail.com</b></li>
+                   <li>⚡ Fun fact <b>I'm always happy</b></li>
                </ul>
   <img align="right" width="50%" src="https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif" alt="coding" />
 </div>
