@@ -9,7 +9,7 @@ width="100%"
     "
 >
                <ul width="50%">
-                   <li>👨‍💻 All of my projects are available at [https://github.com/laabibiabdellah](https://github.com/laabibiabdellah)</li>
+                   <li>👨‍💻 All of my projects are available at [https://github.com/laabibiabdellah]</li>
                    <li>💬 Ask me about **JavaScript, React js, Laravel..**</li>
                    <li>📫 How to reach me **laabibiabdellah@gmail.com**</li>
                    <li>⚡ Fun fact **I'm always happy**</li>
